@@ -19,3 +19,4 @@
 |4|Median of Two Sorted Arrays|C++|Done|
 |5|Longest Palindromic Substring|C++|Done|
 |11|Cotainer With Most Water|C++|Done|
+|20|Valid Parentheses|C++|Done|
