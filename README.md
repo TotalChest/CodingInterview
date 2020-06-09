@@ -19,9 +19,11 @@
 |4|Median of Two Sorted Arrays|C++|Done|
 |5|Longest Palindromic Substring|C++|Done|
 |11|Cotainer With Most Water|C++|Done|
+|15|3Sum|C++|Done|
 |17|Letter Combinations of a Phone Number|C++|Done|
 |19|Remove Nth Node From End of List|C++|Done|
 |20|Valid Parentheses|C++|Done|
 |21|Merge Two Sorted Lists|C++|Done|
 |22|Generate Parentheses|C++|Done|
+|53|Maximum Subarray|C++|Done|
 
