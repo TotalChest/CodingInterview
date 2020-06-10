@@ -25,5 +25,6 @@
 |20|Valid Parentheses|C++|Done|
 |21|Merge Two Sorted Lists|C++|Done|
 |22|Generate Parentheses|C++|Done|
+|23|Merge k Sorted Lists|C++|Done|
 |53|Maximum Subarray|C++|Done|
 
