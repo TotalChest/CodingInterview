@@ -35,6 +35,8 @@
 |104|Maximum Depth of Binary Tree|C++|Done|
 |175|Combine Two Tables|MySQL|Done|
 |176|Second Highest Salary|MySQL|Done|
+|177|Nth Highest Salary|MySQL|Done|
+|182|Duplicate Emails|MySQL|Done|
 |193|Valid Phone Numbers|Bash|Done|
 |195|Tenth Line|Bash|Done|
 |595|Big Countries|MySQL|Done|
