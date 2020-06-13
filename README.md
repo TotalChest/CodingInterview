@@ -26,6 +26,7 @@
 |21|Merge Two Sorted Lists|C++|Done|
 |22|Generate Parentheses|C++|Done|
 |23|Merge k Sorted Lists|C++|Done|
+|33|Search in Rotated Sorted Array|C++|Done|
 |53|Maximum Subarray|C++|Done|
 |70|Climbing Stairs|C++|Done|
 |101|Symmetric Tree|C++|Done|
