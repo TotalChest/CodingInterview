@@ -27,6 +27,7 @@
 |22|Generate Parentheses|C++|Done|
 |23|Merge k Sorted Lists|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
+|34|Find First and Last Position of Element in Sorted Array|C++|Done|
 |53|Maximum Subarray|C++|Done|
 |70|Climbing Stairs|C++|Done|
 |75|Sort Color|C++|Done|
