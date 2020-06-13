@@ -33,4 +33,8 @@
 |75|Sort Color|C++|Done|
 |101|Symmetric Tree|C++|Done|
 |104|Maximum Depth of Binary Tree|C++|Done|
-
+|175|Combine Two Tables|MySQL|Done|
+|176|Second Highest Salary|MySQL|Done|
+|193|Valid Phone Numbers|Bash|Done|
+|195|Tenth Line|Bash|Done|
+|595|Big Countries|MySQL|Done|
