@@ -29,6 +29,7 @@
 |33|Search in Rotated Sorted Array|C++|Done|
 |53|Maximum Subarray|C++|Done|
 |70|Climbing Stairs|C++|Done|
+|75|Sort Color|C++|Done|
 |101|Symmetric Tree|C++|Done|
 |104|Maximum Depth of Binary Tree|C++|Done|
 
