@@ -28,6 +28,7 @@
 |23|Merge k Sorted Lists|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
 |34|Find First and Last Position of Element in Sorted Array|C++|Done|
+|39|Combination Sum|C++|Done|
 |53|Maximum Subarray|C++|Done|
 |70|Climbing Stairs|C++|Done|
 |75|Sort Color|C++|Done|
@@ -36,6 +37,7 @@
 |175|Combine Two Tables|MySQL|Done|
 |176|Second Highest Salary|MySQL|Done|
 |177|Nth Highest Salary|MySQL|Done|
+|178|Rank Scores|MySQL|Done|
 |182|Duplicate Emails|MySQL|Done|
 |193|Valid Phone Numbers|Bash|Done|
 |195|Tenth Line|Bash|Done|
