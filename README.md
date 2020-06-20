@@ -18,6 +18,7 @@
 |3|Longest Substring Without Repeating Characters|C++|Done|
 |4|Median of Two Sorted Arrays|C++|Done|
 |5|Longest Palindromic Substring|C++|Done|
+|6|ZigZag Conversion|C++|Done|
 |7|Reverse Integer|C++|Done|
 |9|Palindrome Number|C++|Done|
 |11|Cotainer With Most Water|C++|Done|
