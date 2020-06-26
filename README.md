@@ -20,8 +20,11 @@
 |5|Longest Palindromic Substring|C++|Done|
 |6|ZigZag Conversion|C++|Done|
 |7|Reverse Integer|C++|Done|
+|8|String to Integer|C++|Done|
 |9|Palindrome Number|C++|Done|
 |11|Cotainer With Most Water|C++|Done|
+|12|Integer to Roman|C++|Done|
+|13|Roman to Integer|C++|Done|
 |15|3Sum|C++|Done|
 |17|Letter Combinations of a Phone Number|C++|Done|
 |19|Remove Nth Node From End of List|C++|Done|
@@ -29,6 +32,9 @@
 |21|Merge Two Sorted Lists|C++|Done|
 |22|Generate Parentheses|C++|Done|
 |23|Merge k Sorted Lists|C++|Done|
+|24|Swap Nodes in Pairs|C++|Done|
+|26|Remove Duplicate form Sorted Array|C++|Done|
+|27|Remove Elements|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
 |34|Find First and Last Position of Element in Sorted Array|C++|Done|
 |39|Combination Sum|C++|Done|
