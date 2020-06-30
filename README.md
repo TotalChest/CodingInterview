@@ -28,7 +28,9 @@
 |13|Roman to Integer|C++|Done|
 |14|Longest Common Prefix|C++|Done|
 |15|3Sum|C++|Done|
+|16|3Sum Closest|C++|Done|
 |17|Letter Combinations of a Phone Number|C++|Done|
+|18|4Sum|C++|Done|
 |19|Remove Nth Node From End of List|C++|Done|
 |20|Valid Parentheses|C++|Done|
 |21|Merge Two Sorted Lists|C++|Done|
