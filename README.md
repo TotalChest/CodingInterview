@@ -37,8 +37,10 @@
 |22|Generate Parentheses|C++|Done|
 |23|Merge k Sorted Lists|C++|Done|
 |24|Swap Nodes in Pairs|C++|Done|
+|25|Reverse Nodes in k-Groups|C++|Done|
 |26|Remove Duplicate form Sorted Array|C++|Done|
 |27|Remove Elements|C++|Done|
+|28|Implement strStr()|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
 |34|Find First and Last Position of Element in Sorted Array|C++|Done|
 |39|Combination Sum|C++|Done|
