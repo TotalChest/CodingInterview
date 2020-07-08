@@ -41,6 +41,8 @@
 |26|Remove Duplicate form Sorted Array|C++|Done|
 |27|Remove Elements|C++|Done|
 |28|Implement strStr()|C++|Done|
+|29|Divide Two Integers|C++|Done|
+|31|Next Permutation|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
 |34|Find First and Last Position of Element in Sorted Array|C++|Done|
 |39|Combination Sum|C++|Done|
