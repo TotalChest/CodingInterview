@@ -45,6 +45,7 @@
 |31|Next Permutation|C++|Done|
 |33|Search in Rotated Sorted Array|C++|Done|
 |34|Find First and Last Position of Element in Sorted Array|C++|Done|
+|35|Search Insert Position|C++|Done|
 |39|Combination Sum|C++|Done|
 |41|First Missing Positive|C++|Done|
 |46|Permutations|C++|Done|
