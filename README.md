@@ -56,6 +56,7 @@
 |104|Maximum Depth of Binary Tree|C++|Done|
 |121|Best Time to Buy and Sell Stock|C++|Done|
 |136|Single Number|C++|Done|
+|169|Majority Element|C++|Done|
 |175|Combine Two Tables|MySQL|Done|
 |176|Second Highest Salary|MySQL|Done|
 |177|Nth Highest Salary|MySQL|Done|
@@ -63,6 +64,8 @@
 |182|Duplicate Emails|MySQL|Done|
 |193|Valid Phone Numbers|Bash|Done|
 |195|Tenth Line|Bash|Done|
+|206|Revese Linked List|C++|Done|
 |237|Delete Node in a Linked List|C++|Done|
 |344|Reverse String|C++|Done|
+|412|Fizz Buzz|C++|Done|
 |595|Big Countries|MySQL|Done|
