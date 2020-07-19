@@ -66,6 +66,7 @@
 |195|Tenth Line|Bash|Done|
 |206|Revese Linked List|C++|Done|
 |237|Delete Node in a Linked List|C++|Done|
+|283|Move Zeros|C++|Done|
 |344|Reverse String|C++|Done|
 |412|Fizz Buzz|C++|Done|
 |595|Big Countries|MySQL|Done|
